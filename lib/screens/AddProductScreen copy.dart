@@ -62,7 +62,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
           ),
         ),
         centerTitle: true,
-        backgroundColor: const Color.fromARGB(255, 255, 255, 255),
+        backgroundColor:  Colors.yellow,
         foregroundColor: Colors.black,
       ),
       body: Stack(
